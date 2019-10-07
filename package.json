@@ -1,0 +1,17 @@
+{
+  "name": "sepa-scheme-countries",
+  "description": "EPC List of SEPA Scheme Countries",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@boennemann/eslint-config": "^6.0.2",
+    "eslint": "^6.5.1"
+  },
+  "license": "ISC",
+  "main": "index.json",
+  "scripts": {
+    "format": "eslint --ext=.json,.js --fix .",
+    "lint": "eslint --ext=.json,.js .",
+    "test": "npm run lint"
+  }
+}

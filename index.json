@@ -1,0 +1,252 @@
+[
+  {
+    "BIC": "FI",
+    "IBAN": "FI",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "AT",
+    "IBAN": "AT",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "PT",
+    "IBAN": "PT",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "BE",
+    "IBAN": "BE",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "BG",
+    "IBAN": "BG",
+    "currencyCode": "BGN"
+  },
+  {
+    "BIC": "ES",
+    "IBAN": "ES",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "HR",
+    "IBAN": "HR",
+    "currencyCode": "HRK"
+  },
+  {
+    "BIC": "CY",
+    "IBAN": "CY",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "CZ",
+    "IBAN": "CZ",
+    "currencyCode": "CZK"
+  },
+  {
+    "BIC": "DK",
+    "IBAN": "DK",
+    "currencyCode": "DKK"
+  },
+  {
+    "BIC": "EE",
+    "IBAN": "EE",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "FI",
+    "IBAN": "FI",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "FR",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "GF",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "DE",
+    "IBAN": "DE",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "GI",
+    "IBAN": "GI",
+    "currencyCode": "GIP"
+  },
+  {
+    "BIC": "GR",
+    "IBAN": "GR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "GP",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "GG",
+    "IBAN": "GB",
+    "currencyCode": "GBP"
+  },
+  {
+    "BIC": "HU",
+    "IBAN": "HU",
+    "currencyCode": "HUF"
+  },
+  {
+    "BIC": "IS",
+    "IBAN": "IS",
+    "currencyCode": "ISK"
+  },
+  {
+    "BIC": "IE",
+    "IBAN": "IE",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "IM",
+    "IBAN": "GB",
+    "currencyCode": "GBP"
+  },
+  {
+    "BIC": "IT",
+    "IBAN": "IT",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "JE",
+    "IBAN": "GB",
+    "currencyCode": "GBP"
+  },
+  {
+    "BIC": "LV",
+    "IBAN": "LV",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "LI",
+    "IBAN": "LI",
+    "currencyCode": "CHF"
+  },
+  {
+    "BIC": "LT",
+    "IBAN": "LT",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "LU",
+    "IBAN": "LU",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "PT",
+    "IBAN": "PT",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "MT",
+    "IBAN": "MT",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "MQ",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "YT",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "MC",
+    "IBAN": "MC",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "NL",
+    "IBAN": "NL",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "NO",
+    "IBAN": "NO",
+    "currencyCode": "NOK"
+  },
+  {
+    "BIC": "PL",
+    "IBAN": "PL",
+    "currencyCode": "PLN"
+  },
+  {
+    "BIC": "PT",
+    "IBAN": "PT",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "RE",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "RO",
+    "IBAN": "RO",
+    "currencyCode": "RON"
+  },
+  {
+    "BIC": "BL",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "MF",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "PM",
+    "IBAN": "FR",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "SM",
+    "IBAN": "SM",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "SK",
+    "IBAN": "SK",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "SI",
+    "IBAN": "SI",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "ES",
+    "IBAN": "ES",
+    "currencyCode": "EUR"
+  },
+  {
+    "BIC": "SE",
+    "IBAN": "SE",
+    "currencyCode": "SEK"
+  },
+  {
+    "BIC": "CH",
+    "IBAN": "CH",
+    "currencyCode": "CHF"
+  },
+  {
+    "BIC": "GB",
+    "IBAN": "GB",
+    "currencyCode": "GBP"
+  }
+]
